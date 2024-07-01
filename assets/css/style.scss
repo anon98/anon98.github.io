@@ -1,6 +1,7 @@
+
 @import "{{ site.theme }}";
 
-
+// Add your custom styles here
 body {
     font-family: 'Courier New', Courier, monospace;
     background-color: #0d0d0d;
@@ -26,9 +27,30 @@ a:hover {
     align-items: center;
 }
 
+.header-text {
+    flex-grow: 1;
+}
+
 .profile-pic {
     border-radius: 50%;
     width: 150px;
     height: 150px;
     object-fit: cover;
+    margin-left: 20px;
+}
+
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.tag {
+    background-color: #1a1a1a;
+    border: 1px solid #00ff00;
+    border-radius: 20px;
+    color: #00ff00;
+    padding: 5px 10px;
+    font-size: 14px;
 }
