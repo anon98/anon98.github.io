@@ -1,5 +1,10 @@
 # Welcome to My Page
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)   ![Open Source](https://img.shields.io/badge/Open%20Source-OSBrightGreen?style=flat-square)![Electrical Engineering](https://img.shields.io/badge/Electrical%20Engineering-EE9900?style=flat-square&logo=ieee&logoColor=white)![Smart Grid](https://img.shields.io/badge/Smart%20Grid-1B5E20?style=flat-square)![Renewable Energy](https://img.shields.io/badge/Renewable%20Energy-4CAF50?style=flat-square)
+![Energy Management](https://img.shields.io/badge/Energy%20Management-FF6F00?style=flat-square)
 
+
+
+  
 This is a short introduction to who I am!
 
 ## About Me
@@ -63,9 +68,9 @@ I am a Research Associate and a doctoral candidate at [Institute for Automation 
 
 ## Programming Languages
 
-- Python
-- Java
-- Julia
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+- ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
 
 ## Modelling
 
@@ -82,3 +87,5 @@ I am a Research Associate and a doctoral candidate at [Institute for Automation 
 - Volunteering
 
 ## Feel free to contact for collaborations!!
+### Visitor count
+<img src="https://profile-counter.glitch.me/anon98/count.svg" />
