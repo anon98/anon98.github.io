@@ -74,9 +74,10 @@ I am a Research Associate and a doctoral candidate at [Institute for Automation 
 
 ## Modelling
 
-- Simulink
-- PowerFactory
-- Modelica
+- ![Simulink](https://img.shields.io/badge/Simulink-4DB6AC?style=flat-square&logo=MathWorks&logoColor=white)
+- ![PowerFactory](https://img.shields.io/badge/PowerFactory-FF6F00?style=flat-square&logo=Digsilent&logoColor=white)
+- ![Modelica](https://img.shields.io/badge/Modelica-3E8ACC?style=flat-square&logo=Modelica&logoColor=white)
+
 
 ## Interests
 
